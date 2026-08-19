@@ -20,7 +20,7 @@ veg <- read.csv('Pool8_AqVeg_SRS.csv') %>%
 veg$rake.avg <- rowMeans(veg[,66:71])
 
 #Make a list of species
-spp.list <- unique(veg$SPPCD)
+spp.list <- unique(veg$Common.Name)
 
 # Define UI for water quality map app ----
 ui <- bslib::page_sidebar(
@@ -115,7 +115,7 @@ ui <- bslib::page_sidebar(
               )),
     
     
-    nav_panel('Time Series', plotOutput('vegBoxes', height = 500, width = 900), 
+    nav_panel('Rake Score Time Series', plotOutput('vegBoxes', height = 500, width = 900), 
               'Boxes showing median, 25%, and 75% quantiles and whiskers showing 1.95x
               interquartile range of mean rake score for given species at a sample site.')
     ,
@@ -148,7 +148,7 @@ server <- function(input, output) {
       filter(Year >= input$date_range[1] & Year <= input$date_range[2]) %>%
       filter(!is.na(rake.avg)) %>%
       filter(Month %in% input$months) %>%
-      filter(SPPCD == input$VegSpecies) %>%
+      filter(Common.Name == input$VegSpecies) %>%
       filter(rake.avg > 0)
   })
   
