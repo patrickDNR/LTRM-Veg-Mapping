@@ -1,0 +1,182 @@
+Species Code,Common Name,Common Name Alt,Family,Scientific Name,Life Form
+ALGA,filamentous algae,"algae, filamentous",,Filamentous algae,A
+AMTU,roughfruit amaranth,"amaranth, roughfruit",Amaranthaceae,Amaranthus tuberculatus (Moq.) Sauer,E
+AMRU,tall amaranth,"amaranth, tall",Amaranthaceae,Amaranthus rudis Sauer,E
+SACU,arumleaf arrowhead,"arrowhead, arumleaf",Alismataceae,Sagittaria cuneata Sheldon,E
+SALA2,broadleaf arrowhead,"arrowhead, broadleaf",Alismataceae,Sagittaria latifolia Willd.,E
+SARI,stiff arrowhead,"arrowhead, stiff",Alismataceae,Sagittaria rigida Pursh.,E
+FRPE,green ash,"ash, green",Oleaceae,Fraxinus pennsylvanica Marsh.,E
+SYLAL7,calico aster,"aster, calico",Asteraceae,Symphyotrichum lateriflorum (L.) A. & D. Love var lateriflorum,E
+ECCR,barnyardgrass,barnyardgrass,Poaceae,Echinochloa crus-galli (L.) Beauv.,E
+ECMUM2,common barnyardgrass,"barnyardgrass, common",Poaceae,Echinochloa muricata (Beauv.) Fern. var muricata,E
+ECMU2,rough barnyardgrass,"barnyardgrass, rough",Poaceae,Echinochloa muricata (Beauv.) Fern.,E
+ECMUM,very rough barnyardgrass,"barnyardgrass, very rough",Poaceae,Echinochloa muricata (Beauv.) Fern. var. microstachya Wieg.,E
+GAOBO,blunt bedstraw,"bedstraw, blunt",Rubiaceae,Galium obtusum Bigelow ssp obtusum,E
+GAOB,bluntleaf bedstraw,"bedstraw, bluntleaf",Rubiaceae,Galium obtusum Bigelow,E
+BIAR,bearded beggarticks,"beggarticks, bearded",Asteraceae,Bidens aristosa (Michx.) Britt.,E
+BICE,nodding beggarticks,"beggarticks, nodding",Asteraceae,Bidens cernua L.,E
+CONVO,bindweed,bindweed,Convolvulaceae,Convolvulus L.,E
+CASES,hedge false bindweed,"bindweed, hedge false",Convolvulaceae,Calystegia sepium (L.) R. Br. ssp sepium,E
+BENI,river birch,"birch, river",Betulaceae,Betula nigra L.,E
+UTMA,common bladderwort,"bladderwort, common",Lentibulariaceae,Utricularia macrorhiza Le Conte,S
+POAN,annual bluegrass,"bluegrass, annual",Poaceae,Poa annua L.,E
+TROH,bluejacket,bluejacket,Commelinaceae,Tradescantia ohiensis Raf.,E
+SCFL,river bulrush,"bulrush, river",Cyperaceae,Schoenoplectus fluviatilis (Torr.) M.T. Strong,E
+SCVA,softstem bulrush,"bulrush, softstem",Cyperaceae,Schoenoplectus tabernaemontani (K.C. Gmel.) Palla,E
+SP?AR,burreed,burreed,Sparganiaceae,Sparganium spp,E
+SPEU,giant burreed,"burreed, giant",Sparganiaceae,Sparganium eurycarpum Engelm. ex Gray,E
+RALO2,longbeak buttercup,"buttercup, longbeak",Ranunculaceae,Ranunculus longirostris Godr.,S
+CEOC2,common buttonbush,"buttonbush, common",Rubiaceae,Cephalanthus occidentalis L.,E
+PHAR3,reed canarygrass,"canarygrass, reed",Poaceae,Phalaris aruninaceae L.,E
+TYLA,common cattail,"cattail, common",Typhaceae,Typha latifolia L.,E
+TYAN,narrowleaf cattail,"cattail, narrowleaf",Typhaceae,Typha angustifolia L.,E
+CH?AR,chara,chara,Characeae,Chara spp.,S
+PIPU2,Canadian clearweed,"clearweed, Canadian",,Pilea pumila (L.) Gray,E
+XAST,rough cocklebur,"cocklebur, rough",Asteraceae,Xanthium strumarium L.,E
+CEDE4,coontail,coontail,Ceratophyllaceae,Ceratophyllum demersum L.,S
+PODE3,eastern cottonwood,"cottonwood, eastern",Salicaceae,Populus deltoides Bartr. ex Marsh.,E
+CARA2,trumpet creeper,"creeper, trumpet",Bignoniaceae,Campsis radicans (L.) Seem. ex Bureau,E
+RATR,threadleaf crowfoot,"crowfoot, threadleaf",Ranunculaceae,Ranunculus trichophyllus Chaix,S
+SIAN,oneseed burr cucumber,"cucumber, oneseed burr",Cucurbitaceae,Sicyos angulatus L.,E
+LEOR,rice cutgrass,"cutgrass, rice",Poaceae,Leersia oryzoides(L.) Sw.,E
+TADI2,bald cypress,"cypress, bald",Taxodiaceae,Taxodium distichum (L.) L.C. Rich.,E
+ECPR,false daisy,"daisy, false",Asteraceae,Eclipta prostrata (L.) L.,E
+CODI5,climbing dayflower,"dayflower, climbing",Commelinaceae,Commelina diffusa Burm. f.,E
+RUCR,curly dock,"dock, curly",Polygonaceae,Rumex crispus L.,E
+RUVE3,swamp dock,"dock, swamp",Polygonaceae,Rumex verticillatus L.,E
+SPPO,big duckweed,"duckweed, big",Lemnaceae,Spirodela polyrrhiza (L.) Schleid.,N
+LEMI3,small duckweed,"duckweed, small",Lemnaceae,Lemna minor L.,N
+LETR,star duckweed,"duckweed, star",Lemnaceae,Lemna trisulca L.,N
+ULAM,American elm,"elm, American",Ulmaceae,Ulmus americana L.,E
+SISP,prickly fanpetals,"fanpetals, prickly",Malvaceae,Sida spinosa L.,E
+CYSQ,bearded flatsedge,"flatsedge, bearded",Cyperaceae,Cyperus squarrosus L.,E
+CYOD,fragrant flatsedge,"flatsedge, fragrant",Cyperaceae,Cyperus odoratus L.,E
+CYER2,redroot flatsedge,"flatsedge, redroot",Cyperaceae,Cyperus erythrorhizos Muhl.,E
+CYST,straw-colored flatsedge,"flatsedge, straw-colored",Cyperaceae,Cyperus strigosus L.,E
+PHLA3,lanceleaf fogfruit,"fogfruit, lanceleaf",Verbenaceae,Phyla lanceolata (Michx.) Greene,E
+VIVU,frost grape,"grape, frost",Vitaceae,Vitis vulpina L.,E
+VICI2,graybark grape,"grape, graybark",Vitaceae,Vitis cinerea (Engelm.) Millard,E
+ECWA,coast cockspur grass,"grass, coast cockspur",Poaceae,Echinochloa walteri (Pursh) Heller,E
+ECHIN4,cockspur grass,"grass, cockspur",Poaceae,Echinochloa Beauv. cock,E
+SMTA2,bristly greenbrier,"greenbrier, bristly",Smilacaceae,Smilax tamnoides L.,E
+CEOC,common hackberry,"hackberry, common",Ulmaceae,Celtis occidentalis L.,E
+GRVI,roundfruit hedgehyssop,"hedgehyssop, roundfruit",Scrophulariaceae,Gratiola virginiana L.,E
+CIBU,bulblet-bearing water hemlock,"hemlock, bulblet-bearing water",,Cicuta bulbifera,E
+POOL,little hogweed,"hogweed, little",Portulacaceae,Portulaca oleracea L.,E
+APCA,Indianhemp,indianhemp,Apocynaceae,Apocynum cannabinum L.,E
+AMFR,desert false indigo,"indigo, desert false",Fabaceae,Amorpha fruticosa L.,E
+POLA4,curlytop knotweed,"knotweed, curlytop",Polygonaceae,Polygonum lapathifolium L.,E
+POAM8,water knotweed,"knotweed, water",Polygonaceae,Polygonum amphibium L.,E
+POPE3,spotted ladysthumb,"ladysthumb, spotted",Polygonaceae,Polygonum persicaria,E
+RIFL,liverwort,liverwort,Ricciaceae,Riccia fluitans,E
+RINA2,liverwort,liverwort,Ricciaceae,Ricciocarpos natans (L.) Corda,N
+RIFL4,slender liverwort,"liverwort, slender",Riccaceae,Riccia fluitans L.,N
+RO?BI,locust,locust,Fabaceae,Robina spp.,E
+GLEDI,locust,locust,Fabaceae,Gleditsia L.,E
+LYSA2,purple loosestrife,"loosestrife, purple",Lythraceae,Lythrum salicaria L.,E
+DEVE,swamp loosestrife,"loosestrife, swamp",Lythraceae,Decodon verticillatus (L.) Ell.,E
+NELU,American lotus,"lotus, American",Nelumbonaceae,Nelumbo lutea Willd.,F
+ERPI2,Indian lovegrass,"lovegrass, Indian",Poaceae,Eragrostis pilosa (L.) Beauv.,E
+ERFR,sandbar lovegrass,"lovegrass, sandbar",Poaceae,Eragrostis frankii C.A. Mey. ex Steud.,E
+ERPE,tufted lovegrass,"lovegrass, tufted",Poaceae,Eragrostis pectinacea (Michx.) Nees ex Steud.,E
+ACSA2,silver maple,"maple, silver",Aceraceae,Acer saccharinum L.,E
+ASCLE,milkweed,milkweed,Ascleepiadaceae,Asclepias spp.,E
+ASIN,swamp milkweed,"milkweed, swamp",Asclepiadaceae,Asclepias incarnata L.,E
+ECES,Japanese millet,"millet, Japanese",Poaceae,Echinochloa esculenta (A. Braun) H. Scholz,E
+MIRI,Allegheny monkeyflower,"monkeyflower, Allegheny",Scrophulariaceae,Mimulus ringens L.,E
+MECA3,common moonseed,"moonseed, common",Menispermaceae,Menispermum canadense L.,E
+AZCA,Carolina mosquitofern,"mosquitofern, Carolina",Azollaceae,Azolla caroliniana Willd.,N
+AZME,Mexican mosquitofern,"mosquitofern, Mexican",Azollaceae,Azolla mexicana Schlect. & Cham. ex K. Presl,N
+MORU2,red mulberry,"mulberry, red",Moraceae,Morus rubra L.,E
+BOCY,false nettle,"nettle, false",Urticaceae,Boehmeria cylindrica (L.) Sw.,E
+ST?AC,hedge nettle,"nettle, hedge",Lamiaceae,Stachys spp.,E
+URDI,stinging nettle,"nettle, stinging",Urticaceae,Urtica dioica L.,E
+NI?TE,nitella,nitella,Characeae,Nitella spp.,S
+RUOR,Rumex orbiculatus,"orbiculatus, rumex",,Rumex orbiculatus,E
+PADI,fall panicgrass,"panicgrass, fall",Poaceae,Panicum dichotomiflorum Michx.,E
+PAFL5,horsetail paspalum,"paspalum, horsetail",Poaceae,Paspalum fluitans (Ell.) Kunth,E
+DIVI5,common persimmon,"persimmon, common",Ebenaceae,Diospyrus virginiana L.,E
+POCO14,pickerelweed,pickerelweed,Pontederiaceae,Pontederia cordata L.,E
+LIDUD,yellowseed false pimpernel,"pimpernel, yellowseed false",Scrophulariaceae,Lindernia dubia (L.) Pennell var dubia,E
+PHVI8,obedient plant,"plant, obedient",Lamiaceae,Physostegia virginiana (L.) Benth.,E
+TORA2,eastern poison ivy,"poison ivy, eastern",Anacardiaceae,Toxicodendron radicans (L.) Kuntze,E
+NULU,yellow pond lily,"pondlily, yellow",Nymphaeaceae,Nuphar variegata Dur.,F
+ST?UC,pondweed,pondweed,Potamogetonaceae,Stuckenia spp.,S
+PORI2,Richardson's pondweed,"pondweed, Richardson's",Potamogetonaceae,Potamogeton richardsonii (Benn.) Rydb.,S
+POAL8,alpine pondweed,"pondweed, alpine",Potamogetonaceae,Potamogeton alpinus Balbis,S
+POCR3,curly pondweed,"pondweed, curly",Potamogetonaceae,Potamogeton crispus L.,S
+STFI6,filiform pondweed,"pondweed, filiform",Potamogetonaceae,Stuckenia filiformis,S
+POZO,flatstem pondweed,"pondweed, flatstem",Potamogetonaceae,Potamogeton zosteriformis Fern.,S
+ZAPA,horned pondweed,"pondweed, horned",Zannichelliaceae,Zannichellia palustris L.,S
+POAM5,largeleaf pondweed,"pondweed, largeleaf",Potamogetonaceae,Potamogeton amplifolius Tuck.,S
+POFO3,leafy pondweed,"pondweed, leafy",Potamogetonaceae,Potamogeton foliosus Raf.,S
+NLPW,leafy/small pondweed,"pondweed, leafy/small",Potamogetonaceae,Potamogeton foliosus Raf./pusillus L.,S
+PONO2,longleaf pondweed,"pondweed, longleaf",Potamogetonaceae,Potamogeton nodosus Poir.,S
+POEP2,ribbonleaf pondweed,"pondweed, ribbonleaf",Potamogetonaceae,Potamogeton epihydrus Raf.,S
+POPE6,sago pondweed,"pondweed, sago",Potamogetonaceae,Stuckenia pectinatus (L.) Boerner,S
+POPU7,small pondweed,"pondweed, small",Potamogetonaceae,Potamogeton pusillus L.,S
+OEBI,common evening-primrose,"primrose, common evening",Onagraceae,Oenothera biennis L.,E
+LUPE5,floating primrosewillow,"primrosewillow, floating",Onagraceae,Ludwigia peploides (Kunth) Raven,F
+LUDE4,wingleaf primrosewillow,"primrosewillow, wingleaf",Onagraceae,Ludwigia decurrens Walt.,F
+AMTR,great ragweed,"ragweed, great",Asteraceae,Ambrosia trifida L.,E
+AMCOP,redstem,redstem,Lythraceae,Ammannia coccinea Rottb. ssp. purpurea (Lam.) Koehne,E
+AMCO,valley redstem,"redstem, valley",Lythraceae,Ammannia coccinea Rottb.,E
+PHAU7,common reed,"reed, common",Poaceae,Phragmites australis (Cav.) Trin. ex Steud.,E
+ZIAQ,southern wild rice,"rice, Southern wild",Poaceae,Zizania aquatica L.,E
+ZI?ZA,wild rice,"rice, wild",Poaceae,Zizania spp.,E
+HIMOL,crimsoneyed rosemallow,"rosemallow, crimsoneyed",Malvaceae,Hibiscus moscheutos L. ssp lasiocarpos (Cav.) O.J. Blanchard,E
+HILA2,halberdleaf rosemallow,"rosemallow, halberdleaf",Malvaceae,Hibiscus laevis All.,E
+JUEF,common rush,"rush, common",Juncaceae,Juncus effusus L.,E
+BUUM,flowering rush,"rush, flowering",Butomaceae,Butomus umbellatus L.,E
+CHSE4,matted sandmat,"sandmat, matted",Euphorbiaceae,Chamaesyce serpens (Kunth) Small,E
+CATR7,blunt broom sedge,"sedge, blunt broom",Cyperaceae,Carex tribuloides Wahlenb.,E
+CACR8,ravenfoot sedge,"sedge, ravenfoot",Cyperaceae,Carex crus-corvi Shuttlw. ex Kunze,E
+CAHY3,shoreline sedge,"sedge, shoreline",Cyperaceae,Carex hyalinolepis Steud.,E
+DUAR3,threeway sedge,"sedge, threeway",Cyperaceae,Dulichium arundinaceum (L.) Britt.,E
+POLO13,Penn smartweed,"smartweed, Penn",Polygonaceae,Polygonum pensylvanicum L.,E
+POPE2,Pennsylvania smartweed,"smartweed, Pennsylvania",Polygonaceae,Polygonum pensylvanicum L.,E
+POPEL2,commom Pennsylvania smartweed,"smartweed, common Pennsylvania",Polygonaceae,Polygonum pensylvanicum L. var. laevigatum Fern.,E
+POPU5,dotted smartweed,"smartweed, dotted",Polygonaceae,Polygonum punctatum Ell.,E
+POAME,longroot smartweed,"smartweed, longroot",Polygonaceae,Polygonum amphibium L. var emersum Michx.,E
+POHY2,swamp smartweed,"smartweed, swamp",Polygonaceae,Polygonum hydropiperiodes Michx.,E
+POAMS,water smartweed,"smartweed, water",Polygonaceae,Polygonum amphibium L. var stipulaceum Coleman,E
+ELRO2,beaked spikerush,"spikerush, beaked",,Eleocharis rostellata (Torr.) Torr.,E
+ELPA3,common spikerush,"spikerush, common",Cyperaceae,Eleocharis palustris (L.) Roemer & J.A. Schultes,E
+ELAC,needle spikerush,"spikerush, needle",Cyperaceae,Eleocharis acicularis,E
+ELRO,robbins spikerush,"spikerush, robbins",Cyperaceae,Elocharis robbinsii,E
+ELTEV,slender spikerush,"spikerush, slender",,Eleocharis tenuis (Willd.) Schult. var. verrucosa (Svens.) Svens.,E
+LEPA3,Amazon sprangletop,"sprangletop, Amazon",Poaceae,Leptochloa panicoides (J. Presl) A.S. Hitchc.,E
+LEFA,bearded sprangletop,"sprangletop, bearded",Poaceae,Leptochloa fusca (L.) Kunth ssp fascicularis (Lam.) N. Snow,E
+LEFI,muronate sprangletop,"sprangletop, muronate",Poaceae,Leptochloa panicea (Retz.) Ohwi ssp. Brachiata (Steudl.) N. Snow,E
+ZODU,water stargrass,"stargrass, water",Pontederiaceae,Heteranthera dubia (Jacq.) MacM.,S
+PESE6,ditch stonecrop,"stonecrop, ditch",Crassulaceae,Penthorum sedoides L.,E
+FOAC,eastern swampprivet,"swampprivet, eastern",Oleaceae,Forestiera acuminata (Michx.) Poir.,E
+EUSE2,lateflowering thoroughwort,"thoroughwort, lateflowering",Asteraceae,Eupatorium serotinum Michx.,E
+DESMO,ticktrefoil,ticktrefoil,Fabaceae,Desmodium Desv.,E
+IM?PA,touch-me-not,touch-me-not,Balsaminaceae,Impatiens spp.,E
+VEHA2,swamp verbena,"verbena, swamp",Verbenaceae,Verbena hastata L.,E
+RUOR2,greater water dock,"water dock, greater",Polygonaceae,Rumex orbiculatus Gray,E
+ALSU,American water plantain,"water plantain, American",Alismataceae,Alisma subcordatum,E
+RONA2,watercress,watercress,Brassicaceae,Rorippa nasturtium-aquaticum (L.) Hayek,E
+BARO,disk waterhyssop,"waterhyssop, disk",Scrophulariaceae,Bacopa rotundifolia (Michx.) Wettst.,F
+NYTU,white waterlily,"waterlily, white",Nymphaeaceae,Nymphaea odorata Ait. spp  tuberosa (Paine) Wiersma & Hellquist,F
+WOCO,Columbian watermeal,"watermeal, Columbian",Lemnaceae,Wolffia columbiana Karst.,N
+MYSP2,Eurasian watermilfoil,"watermilfoil, Eurasian",Haloragaceae,Myriophyllum spicatum L.,S
+MYSI,northern watermilfoil,"watermilfoil, northern",Haloragaceae,Myriophyllum sibiricum Komarov,S
+NAMI,brittle waternymph,"waternymph, brittle",Najadaceae,Najas minor All.,S
+NAFL,nodding waternymph,"waternymph, nodding",Najadaceae,Najas flexilis (Willd.) Rostk. & Schmidt,S
+NAGR,slender waternymph,"waternymph, slender",Najadaceae,Najas gracillima (A. Braun ex Engelm.) Magnus,S
+NAGU,southern waternymph,"waternymph, southern",Najadaceae,Najas guadalupensis (Spreng.) Magnus,S
+ALPL,American waterplantain,"waterplantain, American",Alismataceae,Alisma plantago-aquatica L.,E
+ELCA7,Canadian waterweed,"waterweed, Canadian",Hydrocharitaceae,Elodea canadensis Michx.,S
+LEVI2,whitegrass,whitegrass,Poaceae,Leersia virginica,E
+IPLA,whitestar,whitestar,Convolvulaceae,Ipomoea lacunosa L.,E
+VAAM3,wildcelery,wildcelery,Hydrocharitaceae,Vallisneria americana Michx.,S
+ELVI3,Virginia wildrye,"wildrye, Virginia",Poaceae,Elymus virginicus L.,E
+SANI,black willow,"willow, black",Salicaceae,Salix nigra Marsh.,E
+SACA5,coastal plain willow,"willow, coastal plain",Salicaceae,Salix caroliniana Michx.,E
+SAAM2,peachleaf willow,"willow, peachleaf",Salicaceae,Salix amygdaloides Anderss.,E
+SAEX,sandbar willow,"willow, sandbar",Salicaceae,Salix exigua Nutt.,E
+LACA3,Canadian woodnettle,"woodnettle, Canadian",,Laportea canadensis (L.) Weddell,E
+OXALI,woodsorrel,woodsorrel,Oxalidaceae,Oxalis L.,E
+ROISF2,Fernald's yellowcress,"yellowcress, Fernald's",Brassicaceae,Rorippa palustris (L.) Bess. ssp fernaldiana (Butters & Abbe) Jonsell,E

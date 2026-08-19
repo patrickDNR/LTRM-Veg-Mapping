@@ -14,8 +14,14 @@ veg <- read.csv('Data/ltrm_vegsrs_data.csv') %>%
   dplyr::mutate(DATE = as.Date(format(mdy(DATE), '%Y-%m-%d'))) %>%
   dplyr::filter(!is.na(EAST_15))
 
+#load common names
+names <- read.csv('Data/ltrm_veg_sinfo_19082026.csv')
+
+#add names to veg
+veg <- left_join(veg, names, by = c('SPPCD' = 'Species.Code'))
+
 #convert UTM to lat lon
-utm_crs <- 3261
+utm_crs <- 32615
 
 #Convert to sf object
 utm_sf <- st_as_sf(veg, coords = c('EAST_15', 'NORTH_15'), crs = utm_crs)
