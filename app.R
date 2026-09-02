@@ -22,6 +22,13 @@ veg$rake.avg <- rowMeans(veg[,66:71])
 #Make a list of species
 spp.list <- unique(veg$Common.Name)
 
+#also load percent frequency
+data_url <- "https://raw.githubusercontent.com/patrickDNR/LTRM-Veg-Mapping/refs/heads/main/Data/veg_pctFreq_bySpecies.csv"
+download.file(data_url, 'veg_pctFreq_bySpecies.csv')
+
+veg.freq <- read.csv('veg_pctFreq_bySpecies.csv') %>%
+  filter(species != 'NORAKE')
+
 # Define UI for water quality map app ----
 ui <- bslib::page_sidebar(
   
@@ -117,7 +124,11 @@ ui <- bslib::page_sidebar(
     
     nav_panel('Rake Score Time Series', plotOutput('vegBoxes', height = 500, width = 900), 
               'Boxes showing median, 25%, and 75% quantiles and whiskers showing 1.95x
-              interquartile range of mean rake score for given species at a sample site.')
+              interquartile range of mean rake score for given species at a sample site.', 
+              
+              plotOutput('veg_pctFreq', height = 500, width = 900), 
+              'Time series of annual percent frequency of sampled sites for pool 8
+              for the given species.')
     ,
     
     
@@ -152,6 +163,13 @@ server <- function(input, output) {
       filter(rake.avg > 0)
   })
   
+  frequency_data <- reactive({
+    
+    veg.freq %>%
+      filter(year >= input$date_range[1] & year <= input$date_range[2]) %>%
+      filter(Common.Name == input$VegSpecies) 
+  })
+  
   colorpal <- reactive({
     df <- filtered_data()
     
@@ -177,6 +195,22 @@ server <- function(input, output) {
       xlab = 'Year',
       ylab = input$VegSpecies
     )
+  })
+  
+  output$veg_pctFreq <- renderPlot({
+    df <- frequency_data()
+    
+    validate(
+      need(nrow(df) > 0, 'No data available to display. Please select different Species.')
+    )
+    
+    ggplot(data = df, aes(x = year, y = pct.freq))+
+      geom_point(size = 5) +
+      theme_bw() +
+      theme(text = element_text(size = 25)) + 
+      labs(x = 'Year', 
+           y = expression(paste(input$VegSpecies, ' % Frequency', sep = '')))
+    
   })
   
   # Generate a plot of the requested variable in a pool 8 map
